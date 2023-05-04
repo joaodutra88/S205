@@ -1,1 +1,1 @@
-# S205
+# Repositório para guardar anotações da aula.
